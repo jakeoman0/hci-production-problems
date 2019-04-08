@@ -25,11 +25,17 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL):https://material.io/design/layout/spacing-methods.html#
 * Describe how you implemented that guideline in your sketch:
+I got rid of the lines in the background that for me only drew attention away
+from the form and was a bit confusing.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL):https://developer.android.com/design
 * Describe how you implemented that guideline in your sketch:
+I change the spacing around a little bit. Mainly at the top where the nav bar was
+to keep a better baseline.
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL):https://material.io/design/layout/spacing-methods.html#
 * Describe how you implemented that guideline in your sketch:
+I made a slide out menu from the side instead of making the navigation at the
+top of the page
