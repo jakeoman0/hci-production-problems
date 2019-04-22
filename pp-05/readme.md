@@ -11,18 +11,18 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1.https://www.businessknowhow.com/marketing/webchecklist.htm
+2.https://drpete.co/?topic=25-point-website-usability-checklist
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.Site Load-time Is Reasonable
+2.Adequate Text-to-Background Contrast
+3.Main Navigation Is Easily Identifiable
+4.Can visitors easily find out who runs the site?
+5.Does the site look good when viewed with all the popular web browsers?
+6.Is the design responsive so it looks good on smart phones and tablets?
+7.Company Logo Is Linked to Home-page
+8.Major Headings Are Clear & Descriptive
+9.Styles & Colors Are Consistent
+10.Ads & Pop-ups Are Unobtrusive
